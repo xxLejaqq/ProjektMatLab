@@ -10,8 +10,8 @@ Projekt zaliczeniowy MATLAB
 
 ## Autorzy
 
-- Maja D
-- Weronika K
+- Maja Darczuk
+- Weronika Kozyra
 
 ---
 
