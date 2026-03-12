@@ -156,14 +156,13 @@ ProjektGrupowyMATLAB/
 ## Uruchamianie skryptów
 
 1. Otwórz MATLAB
-2. Przejdź do katalogu `Skrypty_MATLAB`
-3. Uruchom wybrany skrypt, np.:
+2. Uruchom wybrany skrypt, np.:
    ```matlab
    Ciag_an
    ```
-4. Postępuj zgodnie z instrukcjami wyświetlanymi w konsoli:
+3. Postępuj zgodnie z instrukcjami wyświetlanymi w konsoli:
    - Podaj wartość ε > 0
-5. Program wyświetli:
+4. Program wyświetli:
    - Granicę ciągu
    - Obliczoną wartość n₀
    - Wykres ciągu z zaznaczoną granicą i pasmem ε
